@@ -1,6 +1,6 @@
-# CV
+# CV_ita
 
-CV for Brunella D'Anzi
+CV_ita for Brunella D'Anzi
 
 [![GitHub Actions Status: CI](https://github.com/bdanzi/CV_ita/workflows/Deploy%20build/badge.svg)](https://github.com/bdanzi/CV_ita/actions?query=workflow%3A"Deploy+build"+branch%3Amaster)
 [![GitHub view](https://img.shields.io/badge/GitHub-render-green.svg)](https://github.com/bdanzi/CV_ita/blob/gh-pages/cv_danzi_brunella.pdf)
