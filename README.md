@@ -2,12 +2,12 @@
 
 CV for Brunella D'Anzi
 
-[![GitHub Actions Status: CI](https://github.com/bdanzi/CV/workflows/Deploy%20build/badge.svg)](https://github.com/bdanzi/CV/actions?query=workflow%3A"Deploy+build"+branch%3Amaster)
-[![GitHub view](https://img.shields.io/badge/GitHub-render-green.svg)](https://github.com/bdanzi/CV/blob/gh-pages/cv_danzi_brunella.pdf)
-[![download](https://img.shields.io/badge/Download-build-blue.svg)](https://github.com/bdanzi/CV/raw/gh-pages/cv_danzi_brunella.pdf)
-[![download](https://img.shields.io/badge/Download-build-blue.svg)](https://github.com/bdanzi/CV/raw/gh-pages/publist_biobib.pdf)
-[![download](https://img.shields.io/badge/Download-build-blue.svg)](https://github.com/bdanzi/CV/raw/gh-pages/PersonalStatement2021.pdf)
-[![download](https://img.shields.io/badge/Download-build-blue.svg)](https://github.com/bdanzi/CV/raw/gh-pages/cv_danzi_brunella_ext.pdf)
+[![GitHub Actions Status: CI](https://github.com/bdanzi/CV/workflows/Deploy%20build/badge.svg)](https://github.com/bdanzi/CV_ita/actions?query=workflow%3A"Deploy+build"+branch%3Amaster)
+[![GitHub view](https://img.shields.io/badge/GitHub-render-green.svg)](https://github.com/bdanzi/CV_ita/blob/gh-pages/cv_danzi_brunella.pdf)
+[![download](https://img.shields.io/badge/Download-build-blue.svg)](https://github.com/bdanzi/CV_ita/raw/gh-pages/cv_danzi_brunella.pdf)
+[![download](https://img.shields.io/badge/Download-build-blue.svg)](https://github.com/bdanzi/CV_ita/raw/gh-pages/publist_biobib.pdf)
+[![download](https://img.shields.io/badge/Download-build-blue.svg)](https://github.com/bdanzi/CV_ita/raw/gh-pages/PersonalStatement2021.pdf)
+[![download](https://img.shields.io/badge/Download-build-blue.svg)](https://github.com/bdanzi/CV_ita/raw/gh-pages/cv_danzi_brunella_ext.pdf)
 
 ## Instructions
 
