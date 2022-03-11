@@ -2,12 +2,12 @@
 
 CV_ita di Brunella D'Anzi
 
-[![GitHub Actions Status: CI](https://github.com/bdanzi/CV/workflows/Deploy%20build/badge.svg)](https://github.com/bdanzi/CV/actions?query=workflow%3A"Deploy+build"+branch%3Amaster)
-[![GitHub view](https://img.shields.io/static/v1?label=Download&message=Preview&color=yellow)](https://github.com/bdanzi/CV/blob/gh-pages/cv_danzi_brunella.pdf)
-[![download](https://img.shields.io/static/v1?label=Download&message=CV_ita&color=blue)](https://github.com/bdanzi/CV/raw/gh-pages/cv_danzi_brunella.pdf)
-[![download](https://img.shields.io/static/v1?label=Download&message=publist&color=red)](https://github.com/bdanzi/CV/raw/gh-pages/publist_biobib.pdf)
-[![download](https://img.shields.io/static/v1?label=Download&message=PersonalStatement&color=violet)](https://github.com/bdanzi/CV/raw/gh-pages/PersonalStatement2021.pdf)
-[![download](https://img.shields.io/static/v1?label=Download&message=CV_ita_ext&color=orange)](https://github.com/bdanzi/CV/raw/gh-pages/cv_danzi_brunella_ext.pdf)
+[![GitHub Actions Status: CI](https://github.com/bdanzi/CV_ita/workflows/Deploy%20build/badge.svg)](https://github.com/bdanzi/CV_ita/actions?query=workflow%3A"Deploy+build"+branch%3Amaster)
+[![GitHub view](https://img.shields.io/static/v1?label=Download&message=Preview&color=yellow)](https://github.com/bdanzi/CV_ita/blob/gh-pages/cv_danzi_brunella.pdf)
+[![download](https://img.shields.io/static/v1?label=Download&message=CV_ita&color=blue)](https://github.com/bdanzi/CV_ita/raw/gh-pages/cv_danzi_brunella.pdf)
+[![download](https://img.shields.io/static/v1?label=Download&message=publist&color=red)](https://github.com/bdanzi/CV_ita/raw/gh-pages/publist_biobib.pdf)
+[![download](https://img.shields.io/static/v1?label=Download&message=PersonalStatement&color=violet)](https://github.com/bdanzi/CV_ita/raw/gh-pages/PersonalStatement2021.pdf)
+[![download](https://img.shields.io/static/v1?label=Download&message=CV_ita_ext&color=orange)](https://github.com/bdanzi/CV_ita/raw/gh-pages/cv_danzi_brunella_ext.pdf)
 ## Instructions
 
 Download BibTeX file from INSPIRE named `INSPIRE-CiteAll.bib`.
